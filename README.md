@@ -1,4 +1,4 @@
-# JMU-Python-Homework3
+# JMU-Python-Homework
 集美大学财经学院Python课程作业
 
 任课教师：贾*伟
