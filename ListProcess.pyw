@@ -85,7 +85,7 @@ bt5.grid(column = 5,
 
 Msg = Tk.Message(root,
                  width = 999,
-                 text = "访问我的Github页面获取源码：",
+                 text = "访问我的Github页面获取源码：https://github.com/Moha-Master/JMU-Python-Homework",
                  font = ("微软雅黑","9"),
                  anchor = "w",
                  justify = "left")
