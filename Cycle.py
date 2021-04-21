@@ -1,5 +1,9 @@
 import re
 
+#打广告#
+print("访问我的Github页面查看更多作业")
+print("https://github.com/Moha-Master/JMU-Python-Homework")
+
 #任务选择引导#
 print("请选择要运行的任务")
 print("输入1运行温度转换")
