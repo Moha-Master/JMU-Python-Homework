@@ -9,7 +9,7 @@ print("请选择要运行的任务")
 print("输入1运行温度转换")
 print("输入2运行水仙花数输出")
 print("输入3运行素数输出")
-Chopse = input()
+Choose = input()
 
 #温度转换#
 def TemperatureSwitch():
